@@ -1,16 +1,32 @@
 <? version="1.0" encoding="utf-8"?>
     <conteudo>
+
         <postagem codigo="1">
             <titulo>
-                
+                Notícia 1
             </titulo>
             
             <corpo>
-
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum adipisci quod nihil. Quae porro ut laborum nesciunt necessitatibus expedita molestiae aliquam ex, doloremque odit reiciendis quibusdam eligendi, optio non modi animi? Id cumque quibusdam doloribus eius culpa voluptatem aperiam. Harum est ipsum, facilis eum autem possimus animi quibusdam praesentium libero.
             </corpo>
 
             <imagem>
-
+                hulk.jpg
             </imagem>
         </postagem>
+
+        <postagem codigo="2">
+            <titulo>
+                Notícia 1
+            </titulo>
+
+            <corpo>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum adipisci quod nihil. Quae porro ut laborum nesciunt necessitatibus expedita molestiae aliquam ex, doloremque odit reiciendis quibusdam eligendi, optio non modi animi? Id cumque quibusdam doloribus eius culpa voluptatem aperiam. Harum est ipsum, facilis eum autem possimus animi quibusdam praesentium libero.
+            </corpo>
+            
+            <imagem>
+                mm.jpg
+            </imagem>
+        </postagem>
+
     </conteudo>
